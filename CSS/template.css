@@ -1,0 +1,27 @@
+h1 {
+    color: darkgreen;
+}
+
+div {
+    border: 10px solid darkgreen;
+}
+
+p {
+    color: darkred;
+}
+
+#Vermelho {
+    color: goldenrod;
+}
+
+.Rosa {
+    color: hotpink;
+}
+
+body {
+    background-image: url("../images/1_10.png");
+}
+
+#conteiner {
+    background-color: 83a95c;
+}
